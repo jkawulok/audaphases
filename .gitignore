@@ -1,0 +1,16 @@
+*.log
+*.lastbuildstate
+*.tlog
+*.obj
+*.pdb
+*.pch
+*.filters
+*.ipch
+*.idb
+*.ilk
+x64/
+Debug/
+Release/
+.vs/
+*phases.txt
+*trend_*.txt
